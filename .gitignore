@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+charts/
+dataset.csv
+powerbi_campus_data.csv
+.streamlit/
